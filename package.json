@@ -1,0 +1,79 @@
+{
+  "name": "react-firebase-material-admin",
+  "author": "Pascal Jordin <pascal@jordin.eu>",
+  "email": "pascal@jordin.eu",
+  "licence": "MIT",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.8.3",
+    "@material-ui/icons": "^4.5.1",
+    "@reach/router": "^1.2.1",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "@types/chart.js": "^2.9.10",
+    "@types/google-map-react": "^2.1.0",
+    "@types/jest": "^24.0.0",
+    "@types/node": "^12.0.0",
+    "@types/reach__router": "^1.2.6",
+    "@types/react": "^16.9.0",
+    "@types/react-dom": "^16.9.0",
+    "@types/react-dropzone": "^5.1.0",
+    "@types/react-geocode": "^0.2.0",
+    "@types/react-places-autocomplete": "^7.2.6",
+    "@types/uuid": "^3.4.6",
+    "axios": "^0.21.1",
+    "chart.js": "^2.9.3",
+    "firebase": "^7.7.0",
+    "google-map-react": "^2.1.9",
+    "google-maps-react": "^2.0.6",
+    "moment": "^2.29.1",
+    "react": "^16.12.0",
+    "react-chartjs-2": "^2.8.0",
+    "react-dom": "^16.12.0",
+    "react-dropzone": "^10.2.1",
+    "react-geocode": "^0.2.3",
+    "react-hook-google-maps": "0.0.3",
+    "react-perfect-scrollbar": "^1.5.3",
+    "react-places-autocomplete": "^7.3.0",
+    "react-redux": "^7.2.2",
+    "react-scripts": "3.3.0",
+    "redux": "^4.0.5",
+    "typescript": "~3.7.2",
+    "unstated-next": "^1.1.0",
+    "uuid": "^3.3.3",
+    "uuidv4": "^6.2.6",
+    "validate.js": "^0.13.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.16.0",
+    "@typescript-eslint/parser": "^2.16.0",
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.9.0",
+    "eslint-plugin-react": "^7.18.0",
+    "eslint-plugin-react-hooks": "^2.3.0",
+    "prettier": "^1.19.1"
+  }
+}
